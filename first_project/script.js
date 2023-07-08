@@ -1,35 +1,3 @@
-// const arr = [1, 2, 3]
-// arr[100] = 10
-// const obj = {
-//     'Anna': 1000,
-//     'Alice': 2000,
-//     'Katty': 3000,
-//     abc: {
-//         def: {
-//             acd: 2
-//         }
-//     }
-// }
-// obj['Bob'] = 4000
-//
-// const b= 'b'
-// arr[50] = b
-// obj[b] = b
-// console.log(arr)
-// console.log(obj)
-
-// const result =confirm('Are you here?')
-// console.log(result)
-
-// const answer = +prompt('Вам есть 18?', '')
-// console.log( answer +5)
-// const answers = [];
-// answers[0] = prompt('как ваше имя?', '');
-// answers[1] = prompt('как ваше фамилия?', '');
-// answers[2] = prompt('лет?', '');
-// console.log(typeof )
-
-
 const numberOfFilms = +prompt('Сколько фильмов вы уже просмотрели?', '')
 
 const personalMovieDB = {
